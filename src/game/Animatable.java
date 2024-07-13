@@ -7,6 +7,8 @@
 package game;
 import java.awt.Graphics;
 
+import game.GameView;
+
 public interface Animatable 
 {
 	public void update(double elapsedTime); 
